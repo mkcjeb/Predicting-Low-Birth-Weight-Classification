@@ -3,8 +3,6 @@
 Business Challenge built by [Professor Chase Kusterer](https://github.com/chase-kusterer)<br>
 Hult International Business School<br>
 
-Jupyter notebook and dataset for this analysis can be found here: Data Science Portfolio
-
 ### Introduction
 The World Health Organization (WHO) defines low birth weight (LBW) as a birth weight of less than 2500 g. LBW is a major global public health concern. 19.8 million babies, or 14.7 percent of all births worldwide in 2020, were afflicted by LBW. This statistic is essential for evaluating the health of newborns and understanding the difficulties pregnant women experience (Alam, M. et.al, 2024). Prenatal care is considered by many to be an essential part of a pregnant mother’s healthcare. The 2002 North Dakota PRAMS survey found that mothers who were younger, less educated, single, American Indian, or Medicaid people were more likely to report having difficulty accessing prenatal care as early as they would have liked. Therefore, by direct clinical screening and healthcare intervention, it is essential to precisely identify which pregnant patients may be most at-risk of delivering a baby with LBW during the preconception or early stages of pregnancy in order to save newborn lives and save potentially avoidable medical expenses.
 
