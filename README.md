@@ -1,7 +1,7 @@
 ### By: Michelle Kae Celine Jo-anne Bantugon
 
-Business case built by Professor Chase Kusterer
-Hult International Business School
+Business Challenge built by [Professor Chase Kusterer](https://github.com/chase-kusterer)<br>
+Hult International Business School<br>
 
 Jupyter notebook and dataset for this analysis can be found here: Data Science Portfolio
 
